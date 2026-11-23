@@ -1,8 +1,8 @@
 # THE WORLD IN ONE DAY — Sunday, 22 November 2026
 
-![Competition](https://make.fun/badge/news-image-20261122.svg)
-![Rank](https://make.fun/badge/valdodamanik12-blip/world-in-one-day-22-nov/rank.svg)
-![Reward](https://make.fun/badge/valdodamanik12-blip/world-in-one-day-22-nov/reward.svg)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/valdodamanik12-blip/world-in-one-day-22-nov/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/valdodamanik12-blip/world-in-one-day-22-nov/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 ## What this entry is
 
